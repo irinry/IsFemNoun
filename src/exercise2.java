@@ -1,7 +1,7 @@
 public class exercise2 {
 
     public static void main (String[] args){
-        cipher("Family", 2);
+        cipher("", 2);
     }
     public static String cipher(String msg, int step) {
         String s = "";
